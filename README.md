@@ -1,0 +1,1 @@
+Aplicação de cadastro de devs e suas tecnologias utilizando geolocalização feito com Node.js para o backend e React para o frontend. Realizado durante a  semana Omnistack
